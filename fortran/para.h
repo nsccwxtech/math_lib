@@ -1,0 +1,2 @@
+integer M,N,K
+PARAMETER(M=512,N=512,K=512)
